@@ -32,7 +32,14 @@
     </header>
     <router-view/>
     <footer class="bg-light py-5">
-        <div class="container"><div class="small text-center text-muted">Copyright © 2020 - Start Bootstrap</div></div>
+      <div class="row">
+        <div class="col span-1-of-2">
+          <div class="container"><div class="small text-center text-muted">Contact Us: (415) 333-3333</div></div>
+        </div>
+        <div class="col span-1-of-2">
+          <div class="container"><div class="small text-center text-muted">Petaluma, CA</div></div>
+        </div>
+      </div>
     </footer>
   </div>
 </template>
