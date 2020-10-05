@@ -10,7 +10,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Home</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Trailers</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Quote</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/quote">Quote</a></li>
                 </ul>
             </div>
         </div>

@@ -44,8 +44,8 @@
                         <a class="portfolio-box" href="assets/img/XTR5.JPG">
                             <img class="img-fluid" src="assets/img/XTR5.JPG" alt="" />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">XTR</div>
+                                <div class="project-name">XTR Off Road Teardrop Trailer</div>
+                                <div class="project-category text-white-50">Starting at $8,795</div>
                             </div>
                         </a>
                     </div>
@@ -53,8 +53,8 @@
                         <a class="portfolio-box" href="assets/img/IMG_9945.JPG">
                             <img class="img-fluid" src="assets/img/IMG_9945.JPG" alt="" />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-name">XTR-XL Off Road Teardrop Trailer</div>
+                                <div class="project-category text-white-50">Starting at $11,495</div>
                             </div>
                         </a>
                     </div>
