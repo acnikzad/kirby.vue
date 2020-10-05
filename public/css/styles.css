@@ -10164,3 +10164,13 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+.quote {
+  /*padding-left: 30%;*/
+  padding-top: 25px;
+  margin-left: 15%;
+}
+
+.options {
+  margin-left: 20%;
+}
