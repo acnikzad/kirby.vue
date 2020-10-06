@@ -10168,7 +10168,8 @@ header.masthead h1 {
 .quote {
   /*padding-left: 30%;*/
   padding-top: 25px;
-  margin-left: 15%;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 .options {
