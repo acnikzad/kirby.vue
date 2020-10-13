@@ -10175,3 +10175,7 @@ header.masthead h1 {
 .options {
   margin-left: 20%;
 }
+
+.hidden_div {
+  display: none;
+}
