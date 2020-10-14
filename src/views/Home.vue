@@ -101,14 +101,15 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8 text-center">
-                    <h2 class="text-white mt-0">We've got what you need!</h2>
+                    <h2 class="text-white mt-0">Go farther with comfort!</h2>
                     <hr class="divider light my-4" />
-                    <p class="text-white-50 mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!</p>
-                    <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Build a quote!</a>
+                    <p class="text-white-50 mb-4">Custom build your own 4x4 Teardrop trailer to suit all of your travel needs! Contact us today to receive a customized quote!</p>
+                    <a class="btn btn-light btn-xl js-scroll-trigger" href="/contact">Contact today to build a quote!</a>
                 </div>
             </div>
         </div>
     </section>
+
   </div>
 </template>
 

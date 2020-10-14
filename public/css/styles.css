@@ -10179,3 +10179,7 @@ header.masthead h1 {
 .hidden_div {
   display: none;
 }
+
+html {
+  scroll-behavior: smooth;
+}
